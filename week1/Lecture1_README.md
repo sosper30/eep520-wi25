@@ -9,10 +9,9 @@ Modern embedded systems programming starts with the hardware and extends all the
 - **Instructor**: Sep Makhsous (sosper30@uw.edu)
     - Office hour: By Appointment
 - **Teaching Assistant**:
-    - Sanjar Normuradov snn98@uw.edu 
     - Armagan Er armagan@uw.edu 
     - Trung Le tle45@uw.edu 
-    - Office hours: [LINK](https://docs.google.com/spreadsheets/d/1rZKNwzfEChZ2OtAtMxDMqFF4eOydgzL2VzhzKrwOlPc/edit?usp=sharing)
+    - Office hours: [LINK](https://docs.google.com/spreadsheets/d/1rZKNwzfEChZ2OtAtMxDMqFF4eOydgzL2VzhzKrwOlPc/edit?gid=0#gid=0)
 
 Today
 ---
@@ -36,7 +35,7 @@ Resources
 ---
 - **Canvas**
 - **Github**
-    - Course repo: https://github.com/sosper30/eep520-wi24
+    - Course repo: https://github.com/sosper30/eep520-wi25
         - Lecture notes in week_1/README.md (go there now)
     - Your homework repo (more on this later)
 - **Docker**: https://docs.docker.com/get-docker/
@@ -97,9 +96,9 @@ Make a code directory for the course and make it your working directory (Optiona
 Get the code for the course:
 
 ```bash
-git clone https://github.com/sosper30/eep520-wi24
+git clone https://github.com/sosper30/eep520-wi25
 OR
-git clone git@github.com:sosper30/eep520-wi24.git
+git clone git@github.com:sosper30/eep520-wi25.git
 ```
 Nowadays git uses extra layer of protection when cloning private repositories from github, you need to check [this](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls) before cloning any private repository like eep520.
 
@@ -118,7 +117,7 @@ Git setup for homework
 - Make the repo **private**
 - Invite Professor, and the TAs to your repo
 - Follow these steps to invite someone on your git repo        [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
-- Our git usernames are: **sosper30**, **SanjarNormuradov**, **Sarmagan**, and **trungleUW**.
+- Our git usernames are: **sosper30**, **Sarmagan**, and **trungleUW**.
 
 Then do
 
