@@ -1,6 +1,6 @@
 # Final Projects Detailed Assignment
 
-## Due Sunday, March 10th at 11:59pm
+## Due Sunday, March 15th at 11:59pm
 
 # Project Rubric
 
